@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb463058-dadb-4440-bb47-252cab00d227" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DataTypes/ExampleBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes/ExampleDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypes/ExampleLong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRaj/DataTypes/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes/Example_int.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes/Example_Char.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,16 +24,43 @@
         <entry file="file://$PROJECT_DIR$/src/DataTypes/Example_int.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataTypes/Example_Char.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataTypes/ExampleLong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataTypes/ExampleDouble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DataTypes/Example_Char.java">
+        <entry file="file://$PROJECT_DIR$/src/DataTypes/ExampleBoolean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="304">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -72,6 +99,9 @@
         <option value="$PROJECT_DIR$/src/DataTypes/Example_byte.java" />
         <option value="$PROJECT_DIR$/src/DataTypes/Example_int.java" />
         <option value="$PROJECT_DIR$/src/DataTypes/Example_Char.java" />
+        <option value="$PROJECT_DIR$/src/DataTypes/ExampleLong.java" />
+        <option value="$PROJECT_DIR$/src/DataTypes/ExampleDouble.java" />
+        <option value="$PROJECT_DIR$/src/DataTypes/ExampleBoolean.java" />
       </list>
     </option>
   </component>
@@ -117,6 +147,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../batch30" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DataTypes" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -129,9 +164,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example_Char">
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypes.Example2" />
+  <component name="RunManager" selected="Application.ExampleBoolean">
+    <configuration name="ExampleBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypes.ExampleBoolean" />
       <module name="JavaRaj" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +178,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypes.Example3" />
+    <configuration name="ExampleDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypes.ExampleDouble" />
+      <module name="JavaRaj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypes.ExampleLong" />
       <module name="JavaRaj" />
       <extension name="coverage">
         <pattern>
@@ -158,19 +206,6 @@
     </configuration>
     <configuration name="Example_Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypes.Example_Char" />
-      <module name="JavaRaj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataTypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example_byte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypes.Example_byte" />
       <module name="JavaRaj" />
       <extension name="coverage">
         <pattern>
@@ -204,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExampleBoolean" />
+        <item itemvalue="Application.ExampleDouble" />
+        <item itemvalue="Application.ExampleLong" />
         <item itemvalue="Application.Example_Char" />
         <item itemvalue="Application.Example_int" />
-        <item itemvalue="Application.Example_byte" />
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example2" />
       </list>
     </recent_temporary>
   </component>
@@ -275,14 +310,35 @@
     <entry file="file://$PROJECT_DIR$/src/DataTypes/Example_int.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataTypes/Example_Char.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="95">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataTypes/ExampleLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataTypes/ExampleDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataTypes/ExampleBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
