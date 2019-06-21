@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb463058-dadb-4440-bb47-252cab00d227" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Doubts/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaRaj/Doubts/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaRaj/Doubts/ClockTestDrive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaRaj/Doubts/ElectricGuitar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaRaj/Doubts/Xcopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doubts/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doubts/ElectricGuitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doubts/Mix4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doubts/Xcopy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,42 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ClasssAndMethods/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="75" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ClasssAndMethods/Earth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ClasssAndMethods/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ClasssAndMethods/Zoo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Doubts/HeapQuiz.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,15 +69,63 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Doubts/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="293">
-              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
               <folding>
                 <element signature="e#704#705#0" expanded="true" />
                 <element signature="e#748#749#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Doubts/ElectricGuitar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Doubts/Xcopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Doubts/Clock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Doubts/Mix4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -164,6 +183,10 @@
         <option value="$PROJECT_DIR$/src/Doubts/BooksTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Doubts/Hobbits.java" />
         <option value="$PROJECT_DIR$/src/Doubts/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/Doubts/ElectricGuitar.java" />
+        <option value="$PROJECT_DIR$/src/Doubts/Xcopy.java" />
+        <option value="$PROJECT_DIR$/src/Doubts/Clock.java" />
+        <option value="$PROJECT_DIR$/src/Doubts/Mix4.java" />
       </list>
     </option>
   </component>
@@ -204,6 +227,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Doubts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaRaj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRaj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Doubts" type="462c0819:PsiDirectoryNode" />
+              <item name="Clock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,35 +262,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Triangle">
-    <configuration name="Books1TestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Doubts.Books1TestDrive" />
-      <module name="JavaRaj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Doubts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BooksTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Doubts.BooksTestDrive" />
-      <module name="JavaRaj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Doubts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Doubts.Dog" />
+  <component name="RunManager" selected="Application.Mix4">
+    <configuration name="ClockTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Doubts.ClockTestDrive" />
       <module name="JavaRaj" />
       <extension name="coverage">
         <pattern>
@@ -292,6 +296,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Doubts.Mix4" />
+      <module name="JavaRaj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Doubts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Doubts.Triangle" />
       <module name="JavaRaj" />
@@ -305,13 +322,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Xcopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Doubts.Xcopy" />
+      <module name="JavaRaj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Doubts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mix4" />
+        <item itemvalue="Application.ClockTestDrive" />
+        <item itemvalue="Application.Xcopy" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.Hobbits" />
-        <item itemvalue="Application.BooksTestDrive" />
-        <item itemvalue="Application.Books1TestDrive" />
-        <item itemvalue="Application.Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -341,8 +371,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -380,6 +410,24 @@
           <line>11</line>
           <properties />
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Doubts/Mix4.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Doubts/Mix4.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Doubts/Mix4.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -535,11 +583,51 @@
     <entry file="file://$PROJECT_DIR$/src/Doubts/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
-          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
           <folding>
             <element signature="e#704#705#0" expanded="true" />
             <element signature="e#748#749#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Doubts/ElectricGuitar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Doubts/Xcopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Doubts/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Doubts/Mix4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
